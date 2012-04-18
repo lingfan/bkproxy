@@ -1,0 +1,5 @@
+bkproxy
+TCP Proxy and Load Balancer in Go
+
+STATUS
+usable, unstable, all unhandled error will make bkproxy exited
